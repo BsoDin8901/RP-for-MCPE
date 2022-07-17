@@ -1,0 +1,17 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "BSoD Pack by BsoDin890 for mcpe v1.1.5",
+        "name": "BSoD Pack",
+        "uuid": "8a121843-aec8-459a-9a34-8267e64e0a2f",
+        "version": [1, 0, 0]
+    },
+    "modules": [
+        {
+            "description": "BSoD Pack by BsoDin890 for mcpe v1.1.5",
+            "type": "resources",
+            "uuid": "e5dda9aa-cb2a-4bce-b0df-5a2339d07057",
+            "version": [1, 0, 1]
+        }
+    ]
+}
